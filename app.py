@@ -36,5 +36,6 @@ def generate_scene(scenario):
     print(descrption)
     return descrption
 
+# These are tests
 description = img2txt("Screenshot_7.png")
 elaborate = generate_scene(description)
